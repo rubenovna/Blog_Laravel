@@ -49,7 +49,8 @@
 
         <div class="row">
             <div class="col-sm-6">
-                <a class="btn btn-block btn-default" href="#">Создать категорию</a>
+                <a class="btn btn-secondary btn-lg btn-block" href="#">Создать категорию</a>
+                <br>
                 <a class="list-group-item" href="#">
                     <h4 class="list-group-item-heading">Категория первая</h4>
                 <p class="list-group-item-text"> Кол-во материалов</p>
@@ -58,7 +59,8 @@
             </div>
 
             <div class="col-sm-6">
-                <a class="btn btn-block btn-default" href="#">Создать материал</a>
+                <a class="btn btn-secondary btn-lg btn-block" href="#">Создать материал</a>
+                <br>
                 <a class="list-group-item" href="#">
                     <h4 class="list-group-item-heading">Материал  первый</h4>
                 <p class="list-group-item-text"> Категория</p>
